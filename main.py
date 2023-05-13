@@ -14,4 +14,4 @@ st.write('''
 This is my first web App
 This is a new line
 ''')
-st.write(data)
+st.write(df)
