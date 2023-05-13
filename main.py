@@ -16,3 +16,4 @@ This is a new line
 ''')
 st.write(df)
 st.line_chart(df)
+st._arrow_area_chart(df)
