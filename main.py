@@ -15,3 +15,4 @@ This is my first web App
 This is a new line
 ''')
 st.write(df)
+st.line_chart(df)
